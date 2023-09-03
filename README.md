@@ -16,11 +16,11 @@
 
 1. Склонируйте репозиторий на свой компьютер:
 
-git clone https://github.com/gvriil/course_work_03
+git clone https://github.com/zulfatgaleev1990/Course_project.git
 markdown
 2. Перейдите в директорию проекта:
 
-cd course_work_03
+cd Course_project
 markdown
 3. Запустите программу:
 
