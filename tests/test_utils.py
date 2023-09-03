@@ -1,5 +1,5 @@
-from src.funcs import converter, file_sort
-from src.utils import list_date, operations, list_operation, operation_last_5, list_5
+from src.utils import converter, file_sort
+from src.main import list_date, operations, list_operation, operation_last_5, list_5
 
 
 def test_converter():
